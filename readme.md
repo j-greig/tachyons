@@ -129,6 +129,7 @@ Also please read our [code of conduct](https://github.com/tachyons-css/tachyons/
 * http://rene.jon.gold
 * http://johnotander.com
 * http://randoma11y.com
+* http://cyclelove.cc
 
 And of course...
 * http://tachyons.io
